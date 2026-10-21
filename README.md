@@ -1,2 +1,2 @@
 # cat-mane-2947.github.io
-## https://gitlab.com/cat.mane.2947
+[cat.mane.2947 GitLab](https://gitlab.com/cat.mane.2947)
